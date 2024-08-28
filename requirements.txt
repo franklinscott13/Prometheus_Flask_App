@@ -1,0 +1,6 @@
+Flask==2.0.1
+prometheus-client==0.11.0
+prometheus-flask-exporter==0.18.1
+pytest
+Werkzeug==2.2.2
+requests
